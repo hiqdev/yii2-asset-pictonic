@@ -1,0 +1,11 @@
+package:
+    name:           yii2-asset-pictonic
+    namespace:      hiqdev\assets\pictonic
+    title:          Yii 2 asset for Pictonic
+    type:           yii2-extension
+    keywords:       pictonic, asset, extension, yii2
+    description:    Yii2 asset for https://pictonic.co/free
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"
