@@ -19,7 +19,9 @@ class PictonicAsset extends \yii\web\AssetBundle
         'css/pictonic.css',
     ];
 
+/* not used
     public $js = [
         'js/pictonic.min.js',
     ];
+*/
 }
