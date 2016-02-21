@@ -1,9 +1,6 @@
 hiqdev/yii2-asset-pictonic changelog
 ------------------------------------
 
-## Under development
-
-
 ## 0.0.2 2015-09-29
 
 - Removed js from PictonicAsset.php cause not used
