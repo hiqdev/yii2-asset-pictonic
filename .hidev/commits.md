@@ -1,6 +1,11 @@
 hiqdev/yii2-asset-pictonic commits history
 ------------------------------------------
 
+## 0.0.3 2016-02-21
+
+- Fixed: updated with latest HiDev features
+    - ace7695 2016-02-21 rehideved (sol@hiqdev.com)
+
 ## 0.0.2 2015-09-29
 
 - Removed js from PictonicAsset.php cause not used
@@ -9,7 +14,7 @@ hiqdev/yii2-asset-pictonic commits history
 ## 0.0.1 2015-09-28
 
 - Added basics
-    - 88ba87b 2015-09-28 + .php_cs (sol@hiqdev.com)
+    - 88ba87b 2015-09-28 + `.php_cs` (sol@hiqdev.com)
     - 0600051 2015-09-28 hideved and php-cs-fixed (sol@hiqdev.com)
     - bace6e9 2015-09-28 inited (sol@hiqdev.com)
 
